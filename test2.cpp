@@ -1,4 +1,5 @@
 #isdfasfew
+<<<<<<< HEAD
 #include<iostream>
 #include<cstdio>
 <<<<<<< HEAD
@@ -13,3 +14,7 @@ int main()
 
 sdafasfasdfasdf
 >>>>>>> new1
+=======
+
+sdafsdfsadfasdf
+>>>>>>> new2
